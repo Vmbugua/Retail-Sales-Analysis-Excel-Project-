@@ -10,8 +10,8 @@ Using **Excel**, I created dashboards, pivot tables, slicers, and charts to visu
 ---
 
 ## 📂 Project Files
-- `data/sales_data.xlsx` → Raw dataset with sales records  
-- `visuals/` → Screenshots of dashboards and charts  
+- `EXCEL ANALYSIS PROJECT.xlsx` → Raw dataset with sales records  
+- `Visualizations.png` → Screenshots of dashboards and charts  
 - Pivot tables and slicers included within the Excel file  
 
 ---
@@ -45,3 +45,5 @@ Using **Excel**, I created dashboards, pivot tables, slicers, and charts to visu
 1. Download or clone this repository  
    ```bash
    git clone https://github.com/Vmbugua/Retail-Sales-Analysis-Excel-Project.git
+
+2. Open file using WPS or Microsoft Excel
